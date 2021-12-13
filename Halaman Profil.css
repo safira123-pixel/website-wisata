@@ -1,0 +1,17 @@
+body {
+background: url('img/profil.png')
+}
+.kotak1{
+	font-family : helvetica;
+	width: 650px;
+background: white;}
+
+.link{
+font-size: 20pt;
+}
+.link:hover{
+color: red;}
+
+.link:link{ 
+color: blue;
+}

@@ -1,0 +1,56 @@
+body {
+background: url('img/profil.png')
+}
+.judul{
+color : blue;}
+
+.kotak1{
+	font-family : helvetica;
+	width: 650px;
+background: white;
+text-align: left;}
+
+.kotak2{
+	font-family : helvetica;
+	width: 550px;
+background: lightblue;
+text-align: left;
+}
+
+.kotak3{
+	font-family : helvetica;
+	width: 550px;
+background: lightblue;
+text-align: left;
+}
+
+.kotak4{
+	font-family : helvetica;
+	width: 550px;
+background: lightblue;
+text-align: left;
+}
+
+.kotak5{
+	font-family : helvetica;
+	width: 550px;
+background: lightblue;
+text-align: left;
+}
+
+.kotak6{
+	font-family : helvetica;
+	width: 550px;
+background: lightblue;
+text-align: left;
+}
+
+.link{
+font-size: 20pt;
+}
+.link:hover{
+color: red;}
+
+.link:link{ 
+color: blue;
+}
